@@ -1,0 +1,1 @@
+var posts=["2025/05/07/HGAME 2025/","2025/05/07/Hello world/","2025/05/07/Markdown语法/","2025/05/07/Typora 1.9.5破解教程/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
